@@ -1,6 +1,9 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JodsonA/663eaca950f00d178c2444a1a363023d/raw/32691cba50e17ed0829f10722d85b687faefd7a0/gitcard.svg"/>
 <h1 align="left">Olá, Meu nome é Jodson Alves<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
+
+![Snake animation](https://github.com/JodsonA/JodsonA/blob/output/github-contribution-grid-snake.svg)
+
 ## Contact
 
 <p align="left" style="background:yellow">
@@ -30,4 +33,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JodsonA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/JodsonA/JodsonA/blob/output/github-contribution-grid-snake.svg)
