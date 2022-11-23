@@ -2,7 +2,7 @@
 <h1 align="left">Olá, Meu nome é Jodson Alves<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 
-![Snake animation](https://github.com/JodsonA/JodsonA/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Contact
 
@@ -33,3 +33,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JodsonA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/JodsonA/JodsonA/blob/output/github-contribution-grid-snake.svg)
